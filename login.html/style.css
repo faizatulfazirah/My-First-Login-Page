@@ -1,4 +1,3 @@
-/* Kita hias Body dulu */
 body {
     background-color: #f4f4f4;
     font-family: 'Arial', sans-serif;
@@ -8,7 +7,6 @@ body {
     padding-top: 80px;
 }
 
-/* Hias naga Nailong kau */
 .login-logo img {
     width: 120px;
     border-radius: 50%;
@@ -16,7 +14,6 @@ body {
     margin-bottom: 20px;
 }
 
-/* Hias kotak login (ikut ejaan typo kau: Comtrainer) */
 .Comtrainer {
     background: white;
     padding: 30px;
@@ -27,7 +24,6 @@ body {
     flex-direction: column;
 }
 
-/* Hias Input */
 input {
     padding: 12px;
     margin-bottom: 15px;
@@ -35,7 +31,6 @@ input {
     border-radius: 6px;
 }
 
-/* Hias Butang */
 button {
     background-color: #FFD700;
     color: #333;
